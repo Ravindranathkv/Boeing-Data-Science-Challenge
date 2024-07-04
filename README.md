@@ -37,5 +37,13 @@ For the classification task of predicting ‘Vehicle_Trim’, a similar approach
   
 The models were assessed based on accuracy and F1-score, ensuring a comprehensive evaluation of their predictive capabilities for vehicle trim.
 
+## Visualizations
+![image](https://github.com/Ravindranathkv/Boeing-Data-Science-Challenge/assets/118389425/1077bd9b-7b76-4fd9-93a7-864859da1852)
+![image](https://github.com/Ravindranathkv/Boeing-Data-Science-Challenge/assets/118389425/6e67cfb6-57df-4ad5-a13e-bf68e4676cdc)
+![image](https://github.com/Ravindranathkv/Boeing-Data-Science-Challenge/assets/118389425/8e9209f0-ebce-4b95-bd66-02a0cfd85d8e)
+
+
+
+
 ## Submission Preparation:
 The ensemble models were then applied to the test dataset, and carefully prepared to mirror the preprocessing and feature selection of the training set. The predictions for `Vehicle_Trim` were mapped back to their original names using the `LabelEncoder` inverse transformation, ensuring clarity in the submission file.
